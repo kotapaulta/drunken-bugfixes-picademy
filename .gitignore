@@ -1,0 +1,6 @@
+#compiled css
+*.css
+*.map
+
+# idea
+.idea/
